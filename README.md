@@ -1,2 +1,2 @@
-# competition-record
-这个仓库将会有所有我比赛写的文件
+# mothercupB-record
+这个分支是mothercupB题我做的部分与最终文件
